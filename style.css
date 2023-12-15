@@ -196,7 +196,7 @@ footer a{
 }
 
 /* Media query for mobile screen sizes */
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 475px) {
   /* .menu{
     display: block;
     cursor: pointer;
